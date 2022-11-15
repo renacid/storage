@@ -1,1 +1,4 @@
-hello,world,!!
+{
+ 'filename1' : 'test1.txt',
+ 'filename2' : 'test2.txt',
+}
